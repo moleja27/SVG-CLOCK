@@ -1,26 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./style/index.css">
-    <title>Clock</title>
-
-
-</head>
-<body>
-     
-    <!--external imagen-->
-
-    <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="300px" height="300px" viewBox="0 0 1280.000000 1232.000000"
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="1280.000000pt" height="1232.000000pt" viewBox="0 0 1280.000000 1232.000000"
  preserveAspectRatio="xMidYMid meet">
 <metadata>
 Created by potrace 1.15, written by Peter Selinger 2001-2017
 </metadata>
-<g class="g" transform="translate(0.000000,1232.000000) scale(0.100000,-0.100000)"
-fill ="#000000" stroke="none">
-<path class="path1" d="M8443 12301 c-725 -171 -1292 -772 -1566 -1661 -128 -415 -184 -930
+<g transform="translate(0.000000,1232.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M8443 12301 c-725 -171 -1292 -772 -1566 -1661 -128 -415 -184 -930
 -142 -1305 82 -741 432 -1322 951 -1583 294 -148 585 -173 859 -76 192 68 451
 220 620 364 449 381 769 968 889 1630 41 227 51 342 50 595 0 484 -68 837
 -219 1150 -230 476 -594 788 -1027 881 -119 25 -317 27 -415 5z"/>
@@ -34,7 +23,7 @@ fill ="#000000" stroke="none">
 -818 723 -981 184 -89 352 -122 541 -105 459 40 868 247 1232 623 401 415 677
 989 767 1592 23 150 39 446 32 567 -37 622 -371 1169 -836 1369 -180 77 -378
 104 -557 75z"/>
-<path class="path3" d="M1051 8344 c-435 -73 -801 -377 -936 -779 -48 -142 -88 -345 -105
+<path d="M1051 8344 c-435 -73 -801 -377 -936 -779 -48 -142 -88 -345 -105
 -530 -62 -671 174 -1429 618 -1985 332 -415 760 -702 1239 -831 403 -108 765
 -6 1072 301 274 274 411 674 411 1201 0 205 -10 317 -46 507 -122 652 -492
 1276 -999 1685 -233 188 -547 361 -745 410 -156 39 -353 47 -509 21z"/>
@@ -47,25 +36,3 @@ fill ="#000000" stroke="none">
 2197 -547 441 -1006 650 -1571 713 -159 18 -447 18 -609 0z"/>
 </g>
 </svg>
-
-    <main>
-       <!--- <img src="./images/306277.svg" alt="print">--> 
-    </main>
-     
-    <!--internal imagen-->
-
-    
-    <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-        
-        <circle class="clock" cx="100" cy="100" r="90" />
-      
-        <line class="hour" x1="100" y1="100" x2="100" y2="60" />
-        <line class="minute" x1="100" y1="100" x2="120" y2="100" />
-        <line class="second" x1="100" y1="100" x2="100" y2="30" />
-      
-      </svg>
-
-   
-    
-</body>
-</html>

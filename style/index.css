@@ -9,3 +9,15 @@
     stroke: #333;
     stroke-width: 4;
   }
+
+  g{
+    fill: pink;
+  }
+
+  .path1{
+    fill: purple;
+  }
+
+  .path3{
+     fill: aqua;
+  }
